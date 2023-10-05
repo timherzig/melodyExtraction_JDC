@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import librosa
+import numpy as np
 from madmom.audio.signal import *
 
 
